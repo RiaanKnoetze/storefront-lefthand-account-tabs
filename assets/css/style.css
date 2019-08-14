@@ -1,0 +1,11 @@
+@media (min-width:768px) {
+    .page-template-template-fullwidth-php .woocommerce-MyAccount-navigation {
+        float: left;
+        margin-right: 4.347826087%;
+    }
+
+    .page-template-template-fullwidth-php .woocommerce-MyAccount-content {
+        float: right;
+        margin-right: 0;
+    }
+}
